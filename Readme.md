@@ -1,4 +1,4 @@
-# **Стартанул** в JavaScript или ECMAScript так и не смог понять.
+# **Стартанул** в JavaScript или ECMAScript.
 
 ## Предысловие
 
